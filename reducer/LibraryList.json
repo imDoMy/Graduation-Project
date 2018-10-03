@@ -1,0 +1,23 @@
+[
+{"id": 0,
+"title": "Reviews",
+"description": "Webpack is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand.",
+"re": [
+"B1 is the best ",
+" fuck B1"
+]
+},
+{"id": 1,
+"title": "React",
+"description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes."
+},
+{"id": 2,
+"title": "Redux",
+"description": "Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test."
+},
+{"id": 3,
+"title": "React-Redux",
+"description": "React-Redux is the official set of bindings between the React and Redux libraries. With this library you can keep your views and data in sync."
+}
+
+]
